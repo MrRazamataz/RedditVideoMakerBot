@@ -1,6 +1,10 @@
 ## Fork:
 This fork adds fixes I have made to the bot.
 
+### Fixes:
+* Login fixes.
+* New Reddit Site Fixes (bits from here https://github.com/elebumm/RedditVideoMakerBot/pull/1986)
+
 # Reddit Video Maker Bot 🎥
 
 All done WITHOUT video editing or asset compiling. Just pure ✨programming magic✨.

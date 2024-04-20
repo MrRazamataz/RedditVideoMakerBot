@@ -1,3 +1,6 @@
+## Fork:
+This fork adds fixes I have made to the bot.
+
 # Reddit Video Maker Bot 🎥
 
 All done WITHOUT video editing or asset compiling. Just pure ✨programming magic✨.
